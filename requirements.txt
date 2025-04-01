@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+torch
+transformers
+huggingface_hub
+accelerate>=0.26.0
+langchain_community
+langchain
+huggingface_hub
